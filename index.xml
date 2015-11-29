@@ -4,12 +4,17 @@
 
 <title>バイリンガル　キッズ　トーク</title>
 <link>ポッドキャストを配信するウェブサイトのURL</link>
-<description>この番組は、アメリカ・カリフォルニアの普通の子供の会話を日本語と英語を交えてお送りします。毎回５分程度の長さでお送りしたいと思います。
+<description>この番組は、アメリカ・カリフォルニアの普通の子供の会話を日本語と英語を交えてお送りします。毎回５分程度の長さでお送りします。
 </description>
 <language>ja</language>
+<image>
+<url>http://tanabe11.github.io/title.jpg</url>
+<link>http://bktalk.tumblr.com/</link>
+<title>バイリンガル　キッズ　トーク</title>
+</image>
 
 <item>
-<title>Volume 1</title>
+<title>バイリンガル　キッズ　トーク Volume 1</title>
 <description>配信データについての説明</description>
 <pubDate>Sun, 29 Nov 2005 10:00:00 +0900</pubDate>
 <enclosure url="http://tanabe11.github.io/Podcast1.mp3" type="audio/mpeg" />
